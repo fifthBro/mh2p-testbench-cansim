@@ -2,7 +2,7 @@
 
 Arduino-based bus simulator that reproduces the CAN behaviour on VAG PCM (MIB / MH2p / PCM5) systems.
 
-Its purpose is **not** to simulate a whole vehicle, but to faithfully reproduce the **exact CAN messages** so that a real PCM and Gateway can boot and operate correctly on a test bench.
+Its purpose is **not** to simulate a whole vehicle, but to  reproduce the ** CAN messages** so that a real PCM and Gateway can boot and operate correctly on a test bench.
 
 
 ## 🎯 What mh2p-testbench-cansim does
