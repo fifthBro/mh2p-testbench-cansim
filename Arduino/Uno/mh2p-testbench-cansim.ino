@@ -1,5 +1,5 @@
 /*
- * Intelligent BootSim ( High Bursts) for Arduino UNO
+ * VAG PCM (MIB / MH2p / PCM5) canbus simulator ( High Bursts) for Arduino UNO
  * -----------------------------------------------------------
  * - Hardware: Arduino UNO + Seeed CAN-BUS Shield v2.0 (MCP2515)
  * - Bitrate: 500 kbps
