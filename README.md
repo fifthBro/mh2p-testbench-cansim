@@ -1,8 +1,10 @@
 # mh2p-testbench-cansim
 
-**Arduino-based** simulator that reproduces the **canbus** behaviour on VAG PCM (MIB / MH2p / PCM5) systems.
+**Arduino-based** AND **esp32*** simulator that reproduces the **canbus** behaviour on VAG PCM (MIB / MH2p / PCM5) systems.
 
 Its purpose is **not** to simulate a whole vehicle, but to  reproduce the **CAN messages** so that a real PCM and Gateway can boot and operate correctly on a test bench.
+
+Its can send vairous different messages including **KL15** and **steering wheel buttons** (ESP32), tracks all sent messages (on/off) and has **web ui interface**. 
 
 
 ## 🎯 What mh2p-testbench-cansim does
